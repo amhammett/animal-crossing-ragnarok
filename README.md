@@ -8,7 +8,7 @@ Using the game mechanic of letting go of tools to complete tasks.
 ## How to run
 
 1. Download [Love2d](https://love2d.org/#download) for platform.
-2. Drag game folder into Love2d's `love.exe`
+2. Via commandline, run `/path/to/love.exe /path/to/animal-crossing-ragnarok`
 
 
 ## Concept

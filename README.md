@@ -36,6 +36,7 @@ Yet to impelement.
 The aim is to have a cut down world where each screen would contain a single
 activity or objective.
 
+```
 |------------|
 |  Forest    |
 |------------|------------|
@@ -43,6 +44,7 @@ activity or objective.
 |------------|------------|
              |  Beach     |
              |------------|
+```
 
 Forest:  Letting go of Axe (mini-game)
 Quary:   Letting go of Slingshot (mimi-game)

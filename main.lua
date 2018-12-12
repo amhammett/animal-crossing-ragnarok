@@ -221,7 +221,7 @@ function update_presents(delta)
 	for index, balloon in ipairs(presents.balloons) do
 		balloon.x = balloon.x - delta * balloon.velocity_x
 		-- update wind direction
-		print(wind_direction)
+		-- print(wind_direction)
 		if balloon.y < presents.balloon_defaults.max_y then
 			balloon.wind_direction = 'up'
 		elseif balloon.y > presents.balloon_defaults.min_y then
